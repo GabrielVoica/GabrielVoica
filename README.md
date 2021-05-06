@@ -10,4 +10,4 @@ to an open source project :earth_africa:.
 - Currently i'm studying **web development** in a private academy but in my free time i study  more coding topics :green_book: like Algorithms, Data Structures and Design Patterns.
 - I love using my **creativity** while coding :star:, i consider good software a type of beautiful and modern art. :pencil2:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVoica&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
