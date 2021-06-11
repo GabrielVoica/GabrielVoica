@@ -36,6 +36,6 @@ to an open source project :earth_africa:.
  I_n constant improvement by reading, working and practising everyday.  
  D_iligent with the work i make.  
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
