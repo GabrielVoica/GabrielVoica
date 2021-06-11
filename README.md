@@ -13,7 +13,7 @@
 S_iempre en constante aprendizaje  
 O_investigando nuevas tecnologias  
 L_
-I_
+I_  
 D_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -30,11 +30,11 @@ to an open source project :earth_africa:.
 - Currently i'm studying **web development** in a private academy but in my free time i study  more coding topics :green_book: like Algorithms, Data Structures and Design Patterns.
 - I love using my **creativity** while coding :star:, i consider good software a type of beautiful and modern art. :pencil2:
 
-- S_ince little learning cool tech topics
-- O_nly recently started programming (1 year or so)
-- L_earning every day just for fun
-- I_
-- D_
+ S_ince little learning cool tech topics.   
+ O_nly recently started programming (1 year or so).  
+ L_earning every day just for fun.  
+ I_n constant improvement by reading, working and practising everyday.  
+ D_iligent with the work i make.  
 
 
 
