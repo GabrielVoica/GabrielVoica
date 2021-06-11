@@ -10,7 +10,7 @@
   como podrian ser **Algoritmos, Estructuras de Datos, Patrones de Diseño o conceptos de Arquitectura del Software**.
 - La creatividad es un factor muy importante para mi a la hora de programar, y **pienso que el codigo es una de las expresiónes artisticas modernas más bellas**. :pencil2:
 
-S_iempre en constante aprendizaje
+S_iempre en constante aprendizaje /n
 O_investigando nuevas tecnologias
 L_
 I_
