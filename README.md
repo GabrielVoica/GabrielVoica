@@ -1,6 +1,6 @@
 ## ¿Quién es Gabriel Voica?
 
-**Hola! Bienvenido a mi perfil de Github. Dejame presentarte quien soy.**
+**Hola! Bienvenido a mi perfil de Github. Dejame presentarme!.**
 
 - Mi nombre es Gabriel pero mis amigos me llaman **Gabi**. :smiley:
 - Desde muy pequeño he tenido contacto con la tecnologia:computer:, podriamos decir que mi relacion con la informática fue amor a primera vista. :heart:
