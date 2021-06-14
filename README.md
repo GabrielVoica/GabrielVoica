@@ -30,5 +30,5 @@ to an open source project :earth_africa:.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- ----T-H--A---N---K----Y----O--U----F--O--R----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-----R---E----A---D------I---N--G!---------
+ --T-H--A---N---K----Y---O--U----F--O--R----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-----R---E----A---D------I---N--G!------
 
