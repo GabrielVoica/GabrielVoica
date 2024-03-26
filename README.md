@@ -5,10 +5,9 @@
 - Mi nombre es Gabriel pero mis amigos me llaman **Gabi**. :smiley:
 - Desde muy pequeño he tenido contacto con la tecnologia:computer:, podriamos decir que mi relacion con la informática fue amor a primera vista. :heart:
 - Soy un **gran fan del software libre** y su comunidad :four_leaf_clover:, y espero algún dia poder contribuir en un proyecto así :earth_africa:.
-- Además de programar, perder horas en Stack Overflow y pensar que está haciendo Linus Torvalds, **intento maneter un estilo de vida saludable** :green_apple:.
-- Actualmente estoy estudiando desarrollo web y realizando practicas en una empresa, pero en mi tiempo libre me gusta estudiar tópicos de programación más avanzados
-  como podrian ser **Algoritmos, Estructuras de Datos, Patrones de Diseño o conceptos de Arquitectura del Software**.
-- La creatividad es un factor muy importante para mi a la hora de programar, y **pienso que a veces el codigo limpio es una de las expresiónes artisticas modernas más bellas**. :pencil2:
+- Actualmente estoy trabajando como Desarrollador Web, pero en mi tiempo libre me gusta estudiar tópicos de programación más avanzados
+  como podrian ser **Algoritmos, Estructuras de Datos, Patrones de Diseño o conceptos de Arquitectura del Software** o **Pentesting**.
+- La creatividad es un factor muy importante para mi a la hora de programar
 
 
 
@@ -22,9 +21,8 @@
 - I consider myself a **techthusiast** :computer:. My relationship with technology was love at first sight. :heart:
 - I'm a **big fan of **open source projects**** and the open source community :four_leaf_clover:, and i hope to one day contribute
 to an open source project :earth_africa:.
-- Appart from coding and thinking about what Linus Torvalds is doing, **i love doing sport and keeping a healthy livestyle** :green_apple:.
-- Currently i'm studying **web development** in a private academy but in my free time i study  more coding topics :green_book: like Algorithms, Data Structures and Design Patterns.
-- I love using my **creativity** while coding :star:, i consider good software a type of beautiful and modern art. :pencil2:
+- Currently i'm working as a Web Developer but in my free time i study  more coding topics :green_book: like Algorithms, Data Structures and Design Patterns, and also Pentesting.
+- I love using my **creativity** while coding :star:
 
 
 
